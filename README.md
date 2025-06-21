@@ -32,3 +32,12 @@ git clone https://github.com/capnmav77/Astro_nvim ~/.config/nvim
 ```shell
 nvim
 ```
+
+#### Mason Extensions
+✓ gopls
+✓ clangd
+✓ cpptools
+✓ debugpy
+✓ jdtls
+✓ markdown-oxide markdown_oxide
+✓ python-lsp-server pylsp
